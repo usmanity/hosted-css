@@ -1,0 +1,24 @@
+{
+  "name": "hosted-css",
+  "version": "1.0.0",
+  "description": "personal css files hosted",
+  "main": "index.js",
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "node-sass *.scss -o ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usmanity/hosted-css.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/usmanity/hosted-css/issues"
+  },
+  "homepage": "https://github.com/usmanity/hosted-css#readme"
+}
