@@ -1,2 +1,2 @@
 # hosted-css
-A general list of CSS files available on the public web
+This repo contains various CSS files I use in multiple projects
